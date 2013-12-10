@@ -29,3 +29,27 @@ c:\users\edgar\documents\visual studio 2012\Projects\Mvc1\bin\System.Web.WebPage
 c:\users\edgar\documents\visual studio 2012\Projects\Mvc1\obj\Debug\Mvc1.csprojResolveAssemblyReference.cache
 c:\users\edgar\documents\visual studio 2012\Projects\Mvc1\obj\Debug\Mvc1.dll
 c:\users\edgar\documents\visual studio 2012\Projects\Mvc1\obj\Debug\Mvc1.pdb
+C:\Users\Edgar\Documents\projects\Mvc1\bin\Mvc1.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\Mvc1.pdb
+C:\Users\Edgar\Documents\projects\Mvc1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\Newtonsoft.Json.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Net.Http.Formatting.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Http.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Http.WebHost.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Mvc.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Razor.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Edgar\Documents\projects\Mvc1\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Net.Http.Formatting.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Http.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Http.WebHost.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Mvc.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.Razor.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.dll
+C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.pdb
