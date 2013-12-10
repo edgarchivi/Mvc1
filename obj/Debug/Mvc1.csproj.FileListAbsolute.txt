@@ -53,3 +53,4 @@ C:\Users\Edgar\Documents\projects\Mvc1\bin\System.Web.WebPages.Razor.xml
 C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.csprojResolveAssemblyReference.cache
 C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.dll
 C:\Users\Edgar\Documents\projects\Mvc1\obj\Debug\Mvc1.pdb
+C:\Users\Edgar\Documents\projects\Mvc1\bin\EntityFramework.xml
